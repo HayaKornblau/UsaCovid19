@@ -1,0 +1,10 @@
+deptId,deptName,managerFirstName,managerLastName,firstName,lastName
+20,Senat,Mike,Pense,Gavin,Newsom
+20,Senat,Gavin,Newsom,Arnold,Schwarzenegger
+20,Senat,Gavin,Newsom,Ronald,Reagan
+20,Senat,Mike,Pense,Bill,De Blasio
+20,Senat,Bill,De Blasio,Michael,Bloomberg
+20,Senat,Gavin,Newsom,Edward,Koch
+20,Senat,Arnold,Schwarzenegger,John,Travolta
+20,Senat,Arnold,Schwarzenegger,Quentin,Tarantino
+20,Senat,Arnold,Schwarzenegger,Alfredo,Pacino

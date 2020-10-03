@@ -1,0 +1,17 @@
+empId,firstName,lastName,gender,birthDate,deptId,positionId,salary
+1,Donald,Trump,M,03/01/1949,10,11,100000
+2,Steven,Mnuchin,M,01/12/1957,10,21,80000
+3,Mike,Pense,M,02/04/1956,10,21,75000
+4,Gavin,Newsom,M,04/02/1955,20,31,84000
+5,Arnold,Schwarzenegger,M,05/04/1945,20,41,85000
+6,Ronald,Reagan,M,25/04/1921,20,41,74000
+7,Bill,De Blasio,M,07/07/1959,20,31,58000
+8,Michael,Bloomberg,M,01/04/1946,20,41,65000
+9,Edward,Koch,M,05/04/1943,20,41,75000
+10,Anthony,Fauci,M,17/07/1940,30,31,72000
+11,Deborah,Birx,F,08/11/1939,30,41,60000
+12,Gloria,Gaynor,F,06/01/1949,30,51,35000
+13,Barbara,Streisand,F,01/10/1952,30,51,32000
+14,John,Travolta,M,06/04/1951,20,51,45000
+15,Quentin,Tarantino,M,11/11/1936,20,51,43000
+16,Alfredo,Pacino,M,08/10/1949,20,51,25000

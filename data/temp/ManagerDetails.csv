@@ -1,0 +1,17 @@
+empId,firstName,lastName,managerId,managerFirstName,managerLastName
+1,Donald,Trump,,,
+2,Steven,Mnuchin,1.0,Donald,Trump
+3,Mike,Pense,1.0,Donald,Trump
+4,Gavin,Newsom,3.0,Mike,Pense
+5,Arnold,Schwarzenegger,4.0,Gavin,Newsom
+6,Ronald,Reagan,4.0,Gavin,Newsom
+7,Bill,De Blasio,3.0,Mike,Pense
+8,Michael,Bloomberg,7.0,Bill,De Blasio
+9,Edward,Koch,4.0,Gavin,Newsom
+10,Anthony,Fauci,2.0,Steven,Mnuchin
+11,Deborah,Birx,10.0,Anthony,Fauci
+12,Gloria,Gaynor,11.0,Deborah,Birx
+13,Barbara,Streisand,11.0,Deborah,Birx
+14,John,Travolta,5.0,Arnold,Schwarzenegger
+15,Quentin,Tarantino,5.0,Arnold,Schwarzenegger
+16,Alfredo,Pacino,5.0,Arnold,Schwarzenegger

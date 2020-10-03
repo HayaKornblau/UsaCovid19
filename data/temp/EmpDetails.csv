@@ -1,0 +1,17 @@
+empId,firstName,lastName,gender,birthDate,deptName,positionName,managerFirstName,managerLastName,salary
+1,Donald,Trump,M,03/01/1949,Management,General Manager,,,100000
+2,Steven,Mnuchin,M,01/12/1957,Management,Account Manager,Donald,Trump,80000
+3,Mike,Pense,M,02/04/1956,Management,Account Manager,Donald,Trump,75000
+4,Gavin,Newsom,M,04/02/1955,Senat,Project Manager,Mike,Pense,84000
+7,Bill,De Blasio,M,07/07/1959,Senat,Project Manager,Mike,Pense,58000
+10,Anthony,Fauci,M,17/07/1940,Health,Project Manager,Steven,Mnuchin,72000
+5,Arnold,Schwarzenegger,M,05/04/1945,Senat,Team Leader,Gavin,Newsom,85000
+6,Ronald,Reagan,M,25/04/1921,Senat,Team Leader,Gavin,Newsom,74000
+8,Michael,Bloomberg,M,01/04/1946,Senat,Team Leader,Bill,De Blasio,65000
+9,Edward,Koch,M,05/04/1943,Senat,Team Leader,Gavin,Newsom,75000
+11,Deborah,Birx,F,08/11/1939,Health,Team Leader,Anthony,Fauci,60000
+14,John,Travolta,M,06/04/1951,Senat,Junior,Arnold,Schwarzenegger,45000
+15,Quentin,Tarantino,M,11/11/1936,Senat,Junior,Arnold,Schwarzenegger,43000
+16,Alfredo,Pacino,M,08/10/1949,Senat,Junior,Arnold,Schwarzenegger,25000
+12,Gloria,Gaynor,F,06/01/1949,Health,Junior,Deborah,Birx,35000
+13,Barbara,Streisand,F,01/10/1952,Health,Junior,Deborah,Birx,32000

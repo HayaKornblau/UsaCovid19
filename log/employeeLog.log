@@ -1,0 +1,287 @@
+2020-07-17 20:49:15,923:INFO:Created employee: 51-Dani Coren-Dani.Coren@email.com
+2020-07-17 20:49:15,996:INFO:Inserted Employee: 51-Dani Coren-Dani.Coren@email.com
+2020-08-08 11:12:58,396:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:12:58,408:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:12:58,409:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-08 11:12:58,409:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-08 11:12:58,410:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:12:58,410:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:12:58,412:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-08 11:12:58,412:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-08 11:12:58,415:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:12:58,415:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:12:58,449:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:12:58,449:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:12:58,460:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:12:58,461:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:12:58,465:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:12:58,465:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:14:28,303:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:14:28,304:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:14:28,304:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-08 11:14:28,304:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-08 11:14:28,305:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:14:28,305:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:14:28,307:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-08 11:14:28,307:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-08 11:14:28,309:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:14:28,310:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:14:28,320:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:14:28,320:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:14:28,324:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:14:28,325:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:14:28,327:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:14:28,328:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:17:52,127:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:17:52,128:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:17:52,128:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-08 11:17:52,128:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-08 11:17:52,129:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:17:52,130:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:17:52,140:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-08 11:17:52,140:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-08 11:17:52,142:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:17:52,143:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:17:52,176:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:17:52,176:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:17:52,177:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:17:52,178:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:17:52,188:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:17:52,189:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:19:44,848:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:19:44,848:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:19:44,849:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-08 11:19:44,849:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-08 11:19:44,850:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:19:44,851:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:19:44,860:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-08 11:19:44,860:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-08 11:19:44,863:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:19:44,864:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:19:44,887:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:19:44,887:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:19:44,888:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:19:44,888:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:19:44,891:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:19:44,892:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:20:39,654:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:20:39,654:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:20:39,655:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-08 11:20:39,656:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-08 11:20:39,659:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:20:39,659:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:20:39,660:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-08 11:20:39,661:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-08 11:20:39,662:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:20:39,671:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:20:39,709:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:20:39,709:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:20:39,719:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:20:39,720:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:20:39,722:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:20:39,723:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:21:42,181:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:21:42,181:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:21:42,181:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-08 11:21:42,181:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-08 11:21:42,182:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:21:42,183:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:21:42,184:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-08 11:21:42,184:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-08 11:21:42,186:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:21:42,186:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:21:42,194:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:21:42,194:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:21:42,195:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:21:42,195:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:21:42,201:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:21:42,202:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:33:15,324:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:33:15,325:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:33:15,325:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 300.0%
+2020-08-08 11:33:15,325:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 300.0%
+2020-08-08 11:33:15,327:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:33:15,327:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:33:15,337:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 500.0%
+2020-08-08 11:33:15,338:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 500.0%
+2020-08-08 11:33:15,339:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:33:15,340:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:33:15,345:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:33:15,345:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:33:15,346:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:33:15,346:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-08 11:33:15,356:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-08 11:33:15,356:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:04:09,010:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:04:09,047:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:04:09,048:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-19 19:04:09,048:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-19 19:04:09,051:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:04:09,051:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:04:09,053:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-19 19:04:09,053:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-19 19:04:09,055:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:04:09,055:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:04:09,086:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:04:09,086:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:04:09,139:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:04:09,139:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:04:09,141:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:04:09,142:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:05:01,246:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:05:01,246:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:05:01,246:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-19 19:05:01,247:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-19 19:05:01,250:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:05:01,250:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:05:01,251:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-19 19:05:01,251:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-19 19:05:01,252:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:05:01,252:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:05:01,271:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:05:01,271:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:05:01,280:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:05:01,280:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:05:01,282:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:05:01,282:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:05:34,381:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:05:34,381:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:17,163:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:17,163:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:17,164:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-19 19:06:17,164:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-19 19:06:17,164:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:17,165:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:17,173:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-19 19:06:17,174:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-19 19:06:17,175:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:17,176:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:17,185:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:17,186:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:17,190:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:17,190:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:17,192:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:17,193:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:44,887:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:44,887:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:44,888:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-19 19:06:44,888:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-19 19:06:44,889:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:44,889:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:44,891:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-19 19:06:44,891:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-19 19:06:44,893:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:44,893:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:44,898:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:44,898:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:44,899:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:44,899:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:06:44,909:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:06:44,909:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:20:32,640:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:20:32,641:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:53:54,116:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:53:54,139:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:53:54,139:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-19 19:53:54,139:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-19 19:53:54,140:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:53:54,140:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:53:54,141:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-19 19:53:54,141:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-19 19:53:54,145:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:53:54,147:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:53:54,195:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:53:54,195:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:53:54,197:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:53:54,197:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 19:53:54,207:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 19:53:54,208:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 20:39:46,596:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 20:39:46,596:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 20:39:46,597:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-19 20:39:46,597:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-19 20:39:46,597:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 20:39:46,598:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 20:39:46,604:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-19 20:39:46,604:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-19 20:39:46,606:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 20:39:46,606:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 20:39:46,613:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 20:39:46,613:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 20:39:46,615:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 20:39:46,615:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 20:39:46,620:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 20:39:46,621:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 21:04:07,335:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 21:04:07,354:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 21:04:07,355:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-19 21:04:07,356:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-19 21:04:07,361:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 21:04:07,362:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 21:04:07,363:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-19 21:04:07,363:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-19 21:04:07,364:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 21:04:07,364:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 21:04:07,393:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 21:04:07,394:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 21:04:07,395:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 21:04:07,396:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 21:04:07,406:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 21:04:07,406:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 22:00:19,335:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 22:00:19,335:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 22:00:19,335:INFO:apply_salary_cut: empId 1, salary 4854, after cut by 3.0%
+2020-08-19 22:00:19,335:INFO:apply_salary_cut: empId 2, salary 7766, after cut by 3.0%
+2020-08-19 22:00:19,336:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 22:00:19,336:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 22:00:19,338:INFO:apply_salary_raise: empId 1, salary 5250, after raised by 5.0%
+2020-08-19 22:00:19,338:INFO:apply_salary_raise: empId 2, salary 8400, after raised by 5.0%
+2020-08-19 22:00:19,340:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 22:00:19,341:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 22:00:19,344:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 22:00:19,345:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 22:00:19,355:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 22:00:19,356:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-19 22:00:19,358:INFO:Created employee: 1-Joan Collins-Joan.Collins@email.com
+2020-08-19 22:00:19,359:INFO:Created employee: 2-James Bond-James.Bond@email.com
+2020-08-22 18:09:56,688:INFO:Created employee: 211-Dana Weiss-Dana.Weiss@email.com
+2020-08-22 18:09:57,176:INFO:Inserted Employee: 211-Dana Weiss-Dana.Weiss@email.com
+2020-08-22 18:11:40,972:INFO:Created employee: 31- -.@email.com
+2020-08-22 18:11:55,400:INFO:Created employee: 31- -.@email.com
+2020-08-22 18:11:55,430:INFO:Deleted Employee: 31- -.@email.com
+2020-08-22 18:15:26,954:INFO:Created employee: 22- -.@email.com
+2020-08-22 18:15:27,001:INFO:Deleted Employee: 22- -.@email.com
+2020-08-22 18:18:02,548:INFO:Created employee: 33- -.@email.com
+2020-08-22 18:18:02,582:INFO:Deleted Employee: 33- -.@email.com
+2020-08-22 18:18:29,203:INFO:Created employee: 222- -.@email.com
+2020-08-22 18:18:29,232:INFO:Deleted Employee: 222- -.@email.com
+2020-08-22 18:19:19,710:INFO:Created employee: 222- -.@email.com
+2020-08-22 18:19:19,739:INFO:Deleted Employee: 222- -.@email.com
+2020-08-22 18:23:13,134:INFO:Created employee: 555- -.@email.com
+2020-08-22 18:23:13,163:INFO:Deleted Employee: 555- -.@email.com
+2020-08-22 18:23:53,676:INFO:Created employee: 2222- -.@email.com
+2020-08-22 18:23:53,706:INFO:Deleted Employee: 2222- -.@email.com
+2020-08-22 18:25:07,839:INFO:Created employee: 444- -.@email.com
+2020-08-22 18:25:07,872:INFO:Deleted Employee: 444- -.@email.com
+2020-08-22 18:26:09,243:INFO:Created employee: 3333- -.@email.com
+2020-08-22 18:26:09,278:INFO:Deleted Employee: 3333- -.@email.com
+2020-08-22 18:26:39,915:INFO:Created employee: 4444- -.@email.com
+2020-08-22 18:26:39,949:INFO:Deleted Employee: 4444- -.@email.com
+2020-08-22 18:27:51,545:INFO:Created employee: 5555- -.@email.com
+2020-08-22 18:27:51,579:INFO:Deleted Employee: 5555- -.@email.com
+2020-08-22 18:29:40,979:INFO:Created employee: 2222- -.@email.com
+2020-08-22 18:29:41,011:INFO:Deleted Employee: 2222- -.@email.com
+2020-08-22 18:30:33,663:INFO:Created employee: 4444- -.@email.com
+2020-08-22 18:30:33,690:INFO:Deleted Employee: 4444- -.@email.com
+2020-08-22 18:31:04,431:INFO:Created employee: 555- -.@email.com
+2020-08-22 18:31:04,460:INFO:Deleted Employee: 555- -.@email.com
+2020-08-22 18:33:57,847:INFO:Created employee: 55555- -.@email.com
+2020-08-22 18:33:57,877:INFO:Deleted Employee: 55555- -.@email.com
+2020-08-22 18:34:29,456:INFO:Created employee: 44444- -.@email.com
+2020-08-22 18:34:29,484:INFO:Deleted Employee: 44444- -.@email.com
+2020-08-22 18:35:06,174:INFO:Created employee: 22222- -.@email.com
+2020-08-22 18:35:06,254:INFO:Deleted Employee: 22222- -.@email.com
+2020-08-22 18:36:32,512:INFO:Created employee: 55555- -.@email.com
+2020-08-22 18:36:32,540:INFO:Deleted Employee: 55555- -.@email.com
+2020-08-22 18:37:26,897:INFO:Created employee: 44444- -.@email.com
+2020-08-22 18:37:26,931:INFO:Deleted Employee: 44444- -.@email.com
